@@ -5,15 +5,15 @@ Terraform is an Infrastructure as Code (IaC) tool that enables you to define, de
 ## Command Line Basics
 Terraform uses subcommands to interact with infrastructure. Below is a list of commonly used commands:
 
-- `terraform version`: Check the version of Terraform installed.
-- `terraform -help`: Display general help or help for a specific subcommand.
-- `terraform fmt`: Format Terraform configuration files to canonical style.
-- `terraform validate`: Validate the syntax of your Terraform configuration files.
-- `terraform console`: Open an interactive console for testing Terraform expressions.
-- `terraform init`: Initialize Terraform, download providers, and prepare your environment.
-- `terraform plan`: Show the execution plan of changes to your infrastructure.
-- `terraform apply`: Apply the changes defined in your configuration to the infrastructure.
-- `terraform destroy`: Destroy the managed infrastructure.
+- `terraform version`   : Check the version of Terraform installed.
+- `terraform -help`     : Display general help or help for a specific subcommand.
+- `terraform fmt`       : Format Terraform configuration files to canonical style.
+- `terraform validate`  : Validate the syntax of your Terraform configuration files.
+- `terraform console`   : Open an interactive console for testing Terraform expressions.
+- `terraform init`      : Initialize Terraform, download providers, and prepare your environment.
+- `terraform plan`      : Show the execution plan of changes to your infrastructure.
+- `terraform apply`     : Apply the changes defined in your configuration to the infrastructure.
+- `terraform destroy`   : Destroy the managed infrastructure.
 
 ---
 
